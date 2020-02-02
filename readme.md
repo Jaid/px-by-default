@@ -2,7 +2,7 @@
 
 
 <a href="https://raw.githubusercontent.com/jaid/px-by-default/master/license.txt"><img src="https://img.shields.io/github/license/jaid/px-by-default?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor px-by-default"/></a>  
-<a href="https://actions-badge.atrox.dev/jaid/px-by-default/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Fpx-by-default%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/px-by-default/commits"><img src="https://img.shields.io/github/commits-since/jaid/px-by-default/v0.1.0?style=flat-square&logo=github" alt="Commits since v0.1.0"/></a> <a href="https://github.com/jaid/px-by-default/commits"><img src="https://img.shields.io/github/last-commit/jaid/px-by-default?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/px-by-default/issues"><img src="https://img.shields.io/github/issues/jaid/px-by-default?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://actions-badge.atrox.dev/jaid/px-by-default/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Fpx-by-default%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/px-by-default/commits"><img src="https://img.shields.io/github/commits-since/jaid/px-by-default/v1.0.0?style=flat-square&logo=github" alt="Commits since v1.0.0"/></a> <a href="https://github.com/jaid/px-by-default/commits"><img src="https://img.shields.io/github/last-commit/jaid/px-by-default?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/px-by-default/issues"><img src="https://img.shields.io/github/issues/jaid/px-by-default?style=flat-square&logo=github" alt="Issues"/></a>  
 <a href="https://npmjs.com/package/px-by-default"><img src="https://img.shields.io/npm/v/px-by-default?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/jaid/px-by-default/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/px-by-default?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/px-by-default"><img src="https://img.shields.io/npm/dm/px-by-default?style=flat-square&logo=npm" alt="Downloads"/></a>
 
 **If given CSS size value has no unit, px will be appended.**
@@ -16,20 +16,20 @@
 <a href="https://npmjs.com/package/px-by-default"><img src="https://img.shields.io/badge/npm-px--by--default-C23039?style=flat-square&logo=npm" alt="px-by-default on npm"/></a>
 
 ```bash
-npm install --save px-by-default@^0.1.0
+npm install --save px-by-default@^1.0.0
 ```
 
 <a href="https://yarnpkg.com/package/px-by-default"><img src="https://img.shields.io/badge/Yarn-px--by--default-2F8CB7?style=flat-square&logo=yarn&logoColor=white" alt="px-by-default on Yarn"/></a>
 
 ```bash
-yarn add px-by-default@^0.1.0
+yarn add px-by-default@^1.0.0
 ```
 
 <a href="https://github.com/jaid/px-by-default/packages"><img src="https://img.shields.io/badge/GitHub Packages-@jaid/px--by--default-24282e?style=flat-square&logo=github" alt="@jaid/px-by-default on GitHub Packages"/></a>  
 (if [configured properly](https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages))
 
 ```bash
-npm install --save @jaid/px-by-default@^0.1.0
+npm install --save @jaid/px-by-default@^1.0.0
 ```
 
 
