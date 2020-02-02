@@ -8,6 +8,7 @@ const indexModule = (process.env.MAIN ? path.resolve(process.env.MAIN) : path.jo
 const {default: pxByDefault} = indexModule
 
 it("should run", () => {
-  const result = pxByDefault()
-  expect(result).toBeGreaterThan(1549410770)
+  expect(pxByDefault(30)).toBe("30px")
+  expect(pxByDefault("3 rem")).toBe("3 rem")
+  expect(pxByDefault(" 100 vw ")).toBe(" 100 vw ")
 })

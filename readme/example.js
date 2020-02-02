@@ -1,3 +1,3 @@
 import pxByDefault from "epoch-Seconds"
 
-const result = pxByDefault()
+const result = pxByDefault(30)

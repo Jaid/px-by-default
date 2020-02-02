@@ -1,14 +1,13 @@
 /** @module px-by-default */
 
 /**
- * @param {number} [compareValue]
- * @returns {number} Seconds passed since Unix epoch (01 January 1970)
+ * @param {*} input
+ * @returns {string} Normalized CSS size value
  */
-export default compareValue => {
-  const seconds = Math.floor(Date.now() / 1000)
-  if (compareValue === undefined) {
-    return seconds
-  } else {
-    return seconds - compareValue
+export default input => {
+  const hasUnit = /[a-z]\s*$/.test(input)
+  if (hasUnit) {
+    return input
   }
+  return `${input}px`
 }
