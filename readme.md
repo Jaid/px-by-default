@@ -36,16 +36,23 @@ npm install --save @jaid/px-by-default@^1.0.0
 
 ## Example
 
+
 ```javascript
 import pxByDefault from "epoch-Seconds"
 
 const result = pxByDefault(30)
+const result2 = pxByDefault("1.5em")
 ```
 
-Variable `result` will now be:
+Variable `result` will be:
 
 ```javascript
 "30px"
+```
+Variable `result2` will be:
+
+```javascript
+"1.5em"
 ```
 
 
