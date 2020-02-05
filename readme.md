@@ -38,7 +38,7 @@ npm install --save @jaid/px-by-default@^1.0.0
 
 
 ```javascript
-import pxByDefault from "epoch-Seconds"
+import pxByDefault from "px-by-default"
 
 const result = pxByDefault(30)
 const result2 = pxByDefault("1.5em")
