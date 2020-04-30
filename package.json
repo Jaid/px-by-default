@@ -35,5 +35,17 @@
     "url": "https://github.com/jaid/px-by-default"
   },
   "homepage": "https://github.com/Jaid/px-by-default",
-  "keywords": []
+  "keywords": [
+    "css",
+    "dimensions",
+    "em",
+    "lib",
+    "library",
+    "pixels",
+    "px",
+    "rem",
+    "string",
+    "util",
+    "utility"
+  ]
 }
